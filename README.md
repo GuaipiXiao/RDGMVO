@@ -1,4 +1,4 @@
-Optimizing Microseismic Monitoring: A Fusion of Gaussian-Cauchy and Adaptive Weight Strategies
+# Optimizing Microseismic Monitoring: A Fusion of Gaussian-Cauchy and Adaptive Weight Strategies
 
 Wei Zhu, Zhihui Li, Hang Su, Lei Liu, Ali Asghar Heidari, Huiling Chen, * Guoxi Liang f,*
 
